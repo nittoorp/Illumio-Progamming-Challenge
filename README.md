@@ -2,7 +2,7 @@
 To read the NAT and FLOW file and return the FLOW IP address pair.
 
 # Taken around 90 minutes to complete the challenge
-# started at 5 pm 01/21 and finished whatever I could by 6:30pm
+# started at 5 pm 01/21 and finished by 6:30pm
 
 I've approached the problem in the following way:
 
